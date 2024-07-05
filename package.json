@@ -1,0 +1,16 @@
+{
+  "name": "ffmpeg-core-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Irgang",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg/core": "^0.12.6",
+    "axios": "^1.7.2"
+  }
+}
